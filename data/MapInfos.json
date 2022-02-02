@@ -1,7 +1,10 @@
 [
 null,
-{"id":1,"expanded":true,"name":"OutsideHouse","order":1,"parentId":0,"scrollX":720.8888888888889,"scrollY":550.2222222222222},
-{"id":2,"expanded":true,"name":"insidehouse","order":2,"parentId":1,"scrollX":728,"scrollY":409.77777777777777},
-{"id":3,"expanded":false,"name":"Basement","order":4,"parentId":1,"scrollX":832,"scrollY":640},
-{"id":4,"expanded":false,"name":"Dream","order":3,"parentId":2,"scrollX":1622,"scrollY":922}
+{"id":1,"expanded":true,"name":"OutsideHouse","order":1,"parentId":0,"scrollX":1092,"scrollY":614.6666666666666},
+{"id":2,"expanded":true,"name":"insidehouse","order":2,"parentId":1,"scrollX":1404,"scrollY":790.2857142857142},
+{"id":3,"expanded":false,"name":"Basement","order":4,"parentId":1,"scrollX":1092,"scrollY":614.6666666666666},
+{"id":4,"expanded":false,"name":"Dream","order":3,"parentId":2,"scrollX":1390.2857142857142,"scrollY":1071.4285714285713},
+{"id":5,"expanded":false,"name":"Bolder Pass Dungeon","order":6,"parentId":6,"scrollX":1390.2857142857142,"scrollY":1038.857142857143},
+{"id":6,"expanded":true,"name":"Bolder Pass","order":5,"parentId":0,"scrollX":1088,"scrollY":624},
+{"id":7,"expanded":false,"name":"Debug Room","order":7,"parentId":0,"scrollX":1404,"scrollY":790.2857142857142}
 ]
