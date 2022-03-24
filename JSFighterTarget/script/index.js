@@ -161,7 +161,7 @@ class Eddie extends Fighter {
     constructor(name, charaName) {
         super(name, charaName);
         // Set all of our defaults values for this new fighter here
-        // Eddie does more damage but lacks in techniques
+        // Crashr does more damage but lacks in techniques
         this.atk = 7;
         this.def = 5;
         this.tek = 3;
