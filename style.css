@@ -31,7 +31,9 @@ text-decoration: none;
 
 body{
   font-family: Dangermode, Calibri,Arial;
-  background-color: #e0e0eb;
+  background-color: #d9d9d9;
+  background:linear-gradient(to top bottom, #999999, #ffffff);
+  background-attachment: fixed;
 }
 
 #openMenu {
@@ -118,6 +120,18 @@ a {
 text-align: center;
 margin-bottom: 50px;
 padding: 30px 0;
+}
+
+.segmentI{
+  text-align: center;
+}
+
+.iText {
+  border: solid .05px;
+  text-align: center;
+  margin: auto;
+  width: 700px;
+  font-size: 130%;
 }
 
   @media screen and (max-width: 500px) {
@@ -213,6 +227,18 @@ display: block;
 margin-left: auto;
 margin-right: auto;
 float: none;
+}
+
+.segmentI{
+  text-align: center;
+  }
+
+.iText {
+  border: solid .05px;
+  text-align: center;
+  margin: auto;
+  width: 300px;
+  font-size: 110%;
 }
 
   }
